@@ -1,0 +1,18 @@
+f""" 
+<div>
+<p>Hi {DynamicContent['Given Name']},
+<br><br>
+Congratulations on completing the {DynamicContent['LDT activity']} for <b>{DynamicContent['Study Package Code']} {DynamicContent['Study Package Full Title']}</b>.
+<br><br>
+The Language Support and Learning team certifies that you have attended and participated in this program to a satisfactory standard.
+<br><br>
+<b><u>Note:</u></b> The attached certificate only applies to the Language Development component of your subject. An overall score of 50% is required to pass your subject.
+<br><br>
+We hope this program helped you improve your academic language skills.
+<br><br>
+Thank you and keep up the good work!
+<br><br>
+<i>ALL Team<br>
+Academic Language and Learning (ALL)</i></p>
+</div>
+"""
