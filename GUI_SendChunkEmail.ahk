@@ -88,7 +88,6 @@ GUI_SendChunkMails(){
                             Saved.FirstDataRow, ; sys.argv[8]
                             Saved.LastDataRow)  ; sys.argv[9]
     }
-
 }
 
 If (A_ScriptFullPath == A_LineFile){
