@@ -117,11 +117,6 @@ You can get Python from https://www.python.org/downloads/
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add changelog
-- [ ] Add Icon/Logo
-- [ ] Document PreConditions and PostConditions in the code 
-- [ ] Document internal functionality
 - [ ] Add a licence
-- [ ] Test in Windows 11
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
